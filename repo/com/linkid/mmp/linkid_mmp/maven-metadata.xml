@@ -3,8 +3,8 @@
   <groupId>com.linkid.mmp</groupId>
   <artifactId>linkid_mmp</artifactId>
   <versioning>
-    <latest>1.0.9b7</latest>
-    <release>1.0.9b7</release>
+    <latest>1.0.9b8</latest>
+    <release>1.0.9b8</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -24,7 +24,8 @@
       <version>1.0.9b5</version>
       <version>1.0.9b6</version>
       <version>1.0.9b7</version>
+      <version>1.0.9b8</version>
     </versions>
-    <lastUpdated>20230425110633</lastUpdated>
+    <lastUpdated>20230425111127</lastUpdated>
   </versioning>
 </metadata>
